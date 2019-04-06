@@ -1,4 +1,4 @@
-package A3;
+package main.java;
 
 public class Dollar {
 
